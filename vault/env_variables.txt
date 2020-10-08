@@ -1,0 +1,8 @@
+DISCORD_TOKEN=''
+GOOGLE_SEARCH_API_KEY=''
+GOOGLE_CSE_ID=''
+DB_USER='postgres'
+DB_PASSWORD='password'
+DB_HOST='127.0.0.1'
+DB_NAME='postgres'
+DB_PORT='5432'
