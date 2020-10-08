@@ -1,7 +1,7 @@
 # discord-bot
 Creating a Discord Bot
 
-1. Create a virtual env using source bin/activate
+1. Create a virtual env using python3 -m venev env
 2. Install dependencies - pip3 install -r requirements.txt
 3.  Create .env file and add the contents using env_variables.txt file.
 4. Create your discord bot by visiting developers console
